@@ -1,0 +1,6 @@
+{
+  "name": "NeoMotion Studio",
+  "description": "Premium futuristic 3D motion graphics platform where users can browse, preview, import, organize, and download motion graphics videos from a categorized library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
